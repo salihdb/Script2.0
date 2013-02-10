@@ -1,0 +1,19 @@
+=pod
+
+=head1 NAME
+
+Rhodeus Script
+
+=head1 DESCRIPTION
+
+Rhodeus is a interpreter designed for websites.
+
+=head1 LICENCE
+
+Rhodeus Script (c) by Talha Zekeriya Durmuş
+
+Rhodeus Script is licensed under a
+Creative Commons Attribution-NoDerivs 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by-nd/3.0/>.
